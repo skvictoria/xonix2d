@@ -8,6 +8,7 @@
   > **2.1**. When three balls meet the boundary, bounce off
 - **Set 3**. Balls above the boundary
   > **3.1**. Balls above the boundary : can be moved by a keyboard
+  
   > **3.2**. Balls above the boundary : can enter the boundary but not go outside the boundary
 
 - If a ball that enters the boundary **moves in the boundary**, a trajectory is created.
