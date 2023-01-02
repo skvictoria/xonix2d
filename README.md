@@ -2,7 +2,7 @@
 
 ![Download..](description.PNG)
 
-1. Description
+## 1. Description
 - A boundary in the middle
 - Three balls inside the boundary, continuously moving
 - When three balls meet the boundary, bounce off
@@ -16,7 +16,7 @@
 - If the trajectory of the point entering the boundary meets the ball that moves inside the boundary before it is included in the boundary, game ends.
 
 
-2. Created Objects
+## 2. Created Objects
 - Boundary
   - variable : vertex
   - function
