@@ -1,6 +1,6 @@
 # xonix2d
 
-![Download..](Description.PNG)
+![Download..](description.PNG)
 
 1. Description
 - 
