@@ -1,9 +1,9 @@
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 #include <time.h>
-#include "tile.hpp"
-#include "enemy.hpp"
-#include "display.hpp"
+#include "tile.h"
+#include "enemy.h"
+#include "display.h"
 #include <iostream>
 
 using namespace sf;
