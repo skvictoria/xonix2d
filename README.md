@@ -20,8 +20,10 @@
 - Boundary
   - variable : vertex
   - function
-      - Is the given position above the boundary?
-      - 
+      - Is on the boundary?
+      - Is inside the boundary?(+1)
+      - Is outside the boundary(-1)
+      - Include the vertex of trajectory to the boundary
   - 
 - A Ball which moves inside the boundary
 - A Ball which moves outside the boundary
